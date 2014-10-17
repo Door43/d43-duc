@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[duc:home|Door43 (duc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-duc|d43-duc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-duc/archive/master.zip|d43-duc.zip]]
+
+**Recent Changes**
+{{changes>ns = duc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/duc|Ethnologue data]]
+
